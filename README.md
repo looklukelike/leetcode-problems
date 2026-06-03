@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1148-article-views-i/) | Easy |
