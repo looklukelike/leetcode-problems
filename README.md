@@ -16,5 +16,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
