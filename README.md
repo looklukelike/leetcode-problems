@@ -27,5 +27,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-fix-names-in-a-table](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1757-recyclable-and-low-fat-products/) | Easy |
+| [1795-rearrange-products-table](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
