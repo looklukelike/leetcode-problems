@@ -14,7 +14,7 @@ class Solution:
             for k in range(len(nums) - 1, i + 1, -1):
                 if nums[i] > nums[k] or nums[k] == heap[1]:
                     continue
-                heap[1] = nums[1]
+                heap[1] = nums[k]
                 for j in range(i + 1, k):
                     if nums[i] < nums[j] < nums[k]:
                         return True
