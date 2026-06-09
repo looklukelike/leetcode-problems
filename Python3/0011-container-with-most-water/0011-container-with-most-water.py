@@ -6,7 +6,7 @@ class Solution:
         while x1 < x2:
             y = min(height[x1], height[x2])
             a = (x2 - x1) * y
-            area = a if a > area else area
+            area = max(area, a)
             if height[x1] > height[x2]:
                 x2 -= 1
             else:
