@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
