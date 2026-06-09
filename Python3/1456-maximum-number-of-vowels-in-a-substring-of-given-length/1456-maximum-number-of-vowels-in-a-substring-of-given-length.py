@@ -1,7 +1,7 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         j = k - 1
-        vowels = ['a', 'e', 'i', 'o', 'u']
+        vowels = set('aeiou')
         max_vowels = 0
 
         window = s[:k]
