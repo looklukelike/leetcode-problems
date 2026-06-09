@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
