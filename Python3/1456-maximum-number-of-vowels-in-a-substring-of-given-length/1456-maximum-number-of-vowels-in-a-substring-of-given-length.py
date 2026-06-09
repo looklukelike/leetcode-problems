@@ -9,8 +9,6 @@ class Solution:
             if window[idx] in vowels:
                 max_vowels += 1
 
-        print(window)
-
         j += 1
         counter = max_vowels
         while j <= len(s):
