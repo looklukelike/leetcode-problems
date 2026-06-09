@@ -10,4 +10,4 @@ class Solution:
             if (k - a) in d:
                 operations += min(d[a], d[k-a]) 
         
-        return int(operations / 2)
+        return operations // 2
