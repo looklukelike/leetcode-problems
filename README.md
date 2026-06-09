@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
