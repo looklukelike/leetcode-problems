@@ -6,6 +6,9 @@ def count_salary_categories(accounts: pd.DataFrame) -> pd.DataFrame:
     choices = ['Low Salary', 'Average Salary', 'High Salary']
     accounts['category'] = np.select(conditions, choices)
 
-    accounts = accounts.groupby(by=['category'], observed=True).count().reindex(choices, fill_value = 0).reset_index().rename(columns={'income': 'accounts_count'})[['category', 'accounts_count']]
+    accounts = (accounts.groupby('category', observed=True)
+                    .size()
+                    .reindex(choices, fill_value=0)
+                    .reset_index(name='accounts_count'))
 
     return accounts
