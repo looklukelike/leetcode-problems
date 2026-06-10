@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1873-calculate-special-bonus/) | Easy |
+| [1907-count-salary-categories](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1907-count-salary-categories/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
