@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1795-rearrange-products-table](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1907-count-salary-categories/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
