@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0511-game-play-analysis-i/) | Easy |
 | [0595-big-countries](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1148-article-views-i/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1517-find-users-with-valid-e-mails/) | Easy |
