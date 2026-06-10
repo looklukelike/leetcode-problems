@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/0596-classes-with-at-least-5-students/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1148-article-views-i/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/looklukelike/leetcode-problems/tree/main/Pandas/1527-patients-with-a-condition/) | Easy |
