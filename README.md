@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
@@ -106,10 +107,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
