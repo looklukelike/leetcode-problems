@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
