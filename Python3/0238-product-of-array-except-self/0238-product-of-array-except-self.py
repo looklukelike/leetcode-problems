@@ -11,7 +11,8 @@ class Solution:
         product = 1
         for j in range(len(nums) - 1, 0, -1):
             product *= nums[j]
-            postfix.insert(0, product)
+            postfix.append(product)
+        postfix.reverse()
         postfix.append(1)
 
         l = []
