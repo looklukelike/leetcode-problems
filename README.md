@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
+| [0443-string-compression](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0443-string-compression/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Database
