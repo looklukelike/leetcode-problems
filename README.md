@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Database
@@ -113,6 +114,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
