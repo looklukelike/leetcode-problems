@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
