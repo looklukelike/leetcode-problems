@@ -125,4 +125,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
