@@ -9,14 +9,8 @@ class Solution:
         prev_node = None
         while node:
             next_node = node.next
-            if next_node:
-                print(node.val, next_node.val)
             node.next = prev_node
             prev_node = node
-            
-            if not next_node:
-                break
-            else:
-                node = next_node
+            node = next_node
 
-        return node
+        return prev_node
