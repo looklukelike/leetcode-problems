@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0443-string-compression/) | Medium |
+| [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Database
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
+| [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
