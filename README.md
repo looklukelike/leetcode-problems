@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -199,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0700-search-in-a-binary-search-tree/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
