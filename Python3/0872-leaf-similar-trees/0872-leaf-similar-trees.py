@@ -5,21 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def descend(self, node: TreeNode, leaves: list):
+    def get_leaves(self, node: TreeNode):
+        if not node:
+            return []
         if not node.left and not node.right:
-            leaves.append(node.val)
-            return leaves
-        new_leaves = []
-        if node.left:
-            new_leaves = self.descend(node.left, [])
-        if node.right:
-            new_leaves.extend(self.descend(node.right, []))
-        leaves.extend(new_leaves)
-        return leaves
+            return [node.val]
+        return self.get_leaves(node.left) + self.get_leaves(node.right)
 
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        left = self.descend(root1, [])
-        right = self.descend(root2, [])
-
-        return left == right
+        return self.get_leaves(root1) == self.get_leaves(root2)
         
