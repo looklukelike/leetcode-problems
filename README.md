@@ -155,10 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
