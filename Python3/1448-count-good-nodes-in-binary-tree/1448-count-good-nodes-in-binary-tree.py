@@ -5,8 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    n = 0
+    n: int
     def goodNodes(self, root: TreeNode) -> int:
+        self.n = 0
         def count(node, max_val):
             if not node:
                 return
