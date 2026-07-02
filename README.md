@@ -155,23 +155,27 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
