@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0450-delete-node-in-a-bst/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0450-delete-node-in-a-bst/) | Medium |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
