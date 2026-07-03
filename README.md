@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0374-guess-number-higher-or-lower/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Prefix Sum
