@@ -11,7 +11,6 @@ class Solution:
         val = (n + 1)// 2
         while True:
             ans = guess(val)
-            print(val, ans)
             if ans == 1:
                 bounds[0] = val
                 val += (bounds[1] - bounds[0]) // 2
