@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0199-binary-tree-right-side-view/) | Medium |
+| [0841-keys-and-rooms](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0199-binary-tree-right-side-view/) | Medium |
+| [0841-keys-and-rooms](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0374-guess-number-higher-or-lower/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
