@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,8 +243,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
