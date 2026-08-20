@@ -2,7 +2,7 @@ class SmallestInfiniteSet:
 
     arr = []
     def __init__(self):
-        self.arr = [x for x in range(1, 10000)]
+        self.arr = [x for x in range(1, 1001)]
 
     def popSmallest(self) -> int:
         smallest = self.arr[0]
