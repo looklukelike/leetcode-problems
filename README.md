@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
+| [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0238-product-of-array-except-self/) | Medium |
@@ -252,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
