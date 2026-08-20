@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0162-find-peak-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0162-find-peak-element/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sliding Window
@@ -231,4 +233,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0547-number-of-provinces/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
