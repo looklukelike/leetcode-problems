@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Hash Table
@@ -257,4 +258,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
