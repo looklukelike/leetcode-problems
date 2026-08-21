@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0238-product-of-array-except-self/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
