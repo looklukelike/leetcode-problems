@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
@@ -275,9 +276,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0062-unique-paths/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
