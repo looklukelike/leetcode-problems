@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
@@ -265,4 +266,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0216-combination-sum-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
