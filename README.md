@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -259,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
