@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Database
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -286,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0062-unique-paths/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
