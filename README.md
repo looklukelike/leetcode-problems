@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0746-min-cost-climbing-stairs/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
