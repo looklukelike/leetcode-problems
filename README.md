@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0746-min-cost-climbing-stairs/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -294,4 +297,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
