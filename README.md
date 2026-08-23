@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1657-determine-if-two-strings-are-close/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2390-removing-stars-from-a-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1207-unique-number-of-occurrences/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2336-smallest-number-in-infinite-set/) | Medium |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sliding Window
@@ -308,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
