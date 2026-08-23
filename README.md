@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2352-equal-row-and-column-pairs/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/3693-climbing-stairs-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
