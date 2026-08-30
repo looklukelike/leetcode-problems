@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0724-find-pivot-index/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0649-dota2-senate](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0649-dota2-senate/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Dynamic Programming
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2300-successful-pairs-of-spells-and-potions/) | Medium |
