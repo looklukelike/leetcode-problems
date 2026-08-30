@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1207-unique-number-of-occurrences/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/looklukelike/leetcode-problems/tree/main/Python3/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
